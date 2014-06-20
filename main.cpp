@@ -1,1 +1,4 @@
-int
+int main
+{
+	return 1;
+}
