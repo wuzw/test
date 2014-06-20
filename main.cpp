@@ -1,6 +1,7 @@
 #include <iostream>
 
-using namespace st;
+using namespace std;
+using namespace edk;
 using namespace bdk;
 using namespace test;
 
