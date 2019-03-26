@@ -6,5 +6,10 @@ int main()
 {
 	printf("Hello World!");
 	printf("Hello World2!");
+	int i = 0; 
+	if(i > 0)
+	{
+		printf("who are you?");
+	}
 	return 0;
 }
