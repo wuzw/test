@@ -11,5 +11,9 @@ int main()
 	{
 		printf("who are you?");
 	}
+	while(true)
+	{
+		printf("where are you");	
+	}
 	return 0;
 }
