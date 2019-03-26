@@ -11,9 +11,5 @@ int main()
 	{
 		printf("who are you?");
 	}
-	while(false)
-	{
-		printf("here are you");
-	}
 	return 0;
 }
