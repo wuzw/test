@@ -11,9 +11,10 @@ int main()
 	{
 		printf("who are you?");
 	}
-	while(110)
+
+	while(false)
 	{
-		printf("where are you");	
+		printf("here are you");
 	}
 	return 0;
 }
